@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Triqui Kotlin</string>
+    <string name="app_juegocom">Gana computadora</string>
+    <string name="app_juegoplay">Gana Persona</string>
+    <string name="app_juegoti">Empate</string>
+    <string name="app_juegoini">Iniciar</string>
+</resources>

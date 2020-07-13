@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Triqui Kotlin</string>
+    <string name="app_juegocom">Computer Won</string>
+    <string name="app_juegoplay">Player Won</string>
+    <string name="app_juegoti">Game Tied</string>
+    <string name="app_juegoini">Restart</string>
+</resources>
